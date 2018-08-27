@@ -42,7 +42,6 @@
         <sys_created_on>2017-03-09 00:59:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c2dce5039f513200bde5f79ff57fcf50</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedIt Populate Email Field</sys_name>

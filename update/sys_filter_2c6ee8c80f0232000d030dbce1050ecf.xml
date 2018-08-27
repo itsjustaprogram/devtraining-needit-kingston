@@ -14,7 +14,6 @@
         <sys_created_on>2017-04-05 19:30:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>2c6ee8c80f0232000d030dbce1050ecf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -27,6 +26,6 @@
         <sys_updated_on>2017-04-05 19:30:55</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</user>
+        <user display_value="">46d44a23a9fe19810012d100cca80666</user>
     </sys_filter>
 </record_update>
